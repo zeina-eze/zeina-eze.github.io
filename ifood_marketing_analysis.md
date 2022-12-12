@@ -36,7 +36,7 @@ Dataset provided had already been cleaned. Before any effective analysis could b
 ### Most successful Campaign effort
 First we need to know which campaign effort was most successful.  
 Using COUNTIF Statement to determine the number of Customers that signed after each campaign, we see that Campaign 6 was by far the most successful. Campaign 2 was least successful in comparison in terms of customer retention.
-  <img src="images/.jpg)
+  <img src="Picture2/.jpg)
 ?raw=true"/>
  
 ### Products purchased
