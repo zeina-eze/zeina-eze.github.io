@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project]([/ifood_marketing_analysis.md))
+#### [ifood Marketing analysis Project]([/ifood_marketing_analysis.md))
 <img src="images/Ifood%20The%20Brazilian%20Doordash%20case%20study!.png?raw=true"/>
 For my first project, I will play the role of a junior data analyst working with the marketing team for a real world company called ifood.
 
