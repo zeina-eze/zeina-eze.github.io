@@ -4,9 +4,10 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project](/sample_project)
+#### [Internal Blog Post Project]([/ifood_marketing_analysis.md))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+For my first project, I will play the role of a junior data analyst working with the marketing team for a real world company called ifood.
+
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
