@@ -79,5 +79,3 @@ Thank you for taking the time to read through my analysis. I do hope it was info
 
 More projects to follow!!
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
