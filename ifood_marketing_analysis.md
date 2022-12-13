@@ -36,7 +36,7 @@ Dataset provided had already been cleaned. Before any effective analysis could b
 ### Most successful Campaign effort
 First we need to know which campaign effort was most successful.  
 Using COUNTIF Statement to determine the number of Customers that signed after each campaign, we see that Campaign 6 was by far the most successful. Campaign 2 was least successful in comparison in terms of customer retention.
-  <img src="images/[Picture2.jpg](https://github.com/zeina-eze/zeina-eze.github.io/blob/master/images/Picture%20joined.jpg)?raw=true"/>
+  <img src="images/Picture%20joined.jpg)?raw=true"/>
  
 ### Products purchased
 Focusing on Campaign 6, Let us dive a little deeper to find a trend in terms of customer purchases. Wine and Meat were extremely popular with highest sales in Dollar amount. 
