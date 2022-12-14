@@ -56,11 +56,11 @@ The R-Squared value is 86%, that means we can predict with 86% certainty, how mu
  
 ### Age Group
 IF statement used to place the customers in one of four age groups (24-35, 36-50, 51-65, & 66+) based on the value in the "Age" column.       
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  <img src="images/agedistrib.png?raw=true"/>
  
 ### Marital Status. 
  Based on the spending pattern observed within age groups, I decided to filter down and focus on the group with the most spending potential (36-50) to understand why this group was spending SO much on Wine and meat products!  
- <img src="images/dummy_thumbnail.jpg?raw=true"/>
+ <img src="images/agedistrib.jpg?raw=true"/>
          
 As an extra, I Created a VLOOKUP tool that can take any Customer ID & provide the amount they spent.
 
