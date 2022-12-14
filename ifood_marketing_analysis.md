@@ -1,4 +1,4 @@
-### Ifood 
+# Ifood 
 
 *The Brazilian ‘Doordash’ case study!* [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
