@@ -2,9 +2,7 @@
 
 ---
 
-### General Analytics Projects
-
-#### [ifood Marketing analysis Project]([/ifood_marketing_analysis.md))
+## [ifood Marketing Analysis Project]([/ifood_marketing_analysis.md])
 <img src="images/Ifood%20The%20Brazilian%20Doordash%20case%20study!.png?raw=true"/>
 For my first project, I will play the role of a junior data analyst working with the marketing team for a real world company called ifood.
 
@@ -12,22 +10,12 @@ For my first project, I will play the role of a junior data analyst working with
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I Analysed a dataset from an Educational Institution and presented my findings as an interactive visual using Tableau. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Using SQL to analyse data from a Financial Institution. 
 
 ---
 
