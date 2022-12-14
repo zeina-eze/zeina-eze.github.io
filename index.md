@@ -8,7 +8,7 @@ For my first project, I will play the role of a junior data analyst working with
 
 
 ---
-#### [External Link Project]([https://www.linkedin.com/pulse/massachusetts-public-schools-look-inside-zeina-eze])
+#### [External Link Project](https://www.linkedin.com/pulse/massachusetts-public-schools-look-inside-zeina-eze)
 [<img src="images/maschool.png?raw=true"/>](https://www.linkedin.com/pulse/massachusetts-public-schools-look-inside-zeina-eze)
 For this project, I analysed a dataset from an Educational Institution and presented my findings as an interactive visual using Tableau.
 
