@@ -46,11 +46,11 @@ Focusing on Campaign 6, Let us dive a little deeper to find a trend in terms of 
 ### Highest sign on period
  
 Using Pivot Tables, I compared to see how many people joined in a given month of the year to those that joined after campaign 6. Notice that January shows the highest customer sign on period. There is a consistent decline in the last few months of the year.
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  <img src="images/Pictjoin.png?raw=true"/>
  
 ### Spending based on Income
 I used a scatter chart to determine if there is a relationship between customer spending and income. As expected, customers with higher income showed a higher spending tendency.
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  <img src="images/Pictincome.png?raw=true"/>
   
 The R-Squared value is 86%, that means we can predict with 86% certainty, how much a customer will spend based on their income.
  
@@ -60,7 +60,7 @@ IF statement used to place the customers in one of four age groups (24-35, 36-50
  
 ### Marital Status. 
  Based on the spending pattern observed within age groups, I decided to filter down and focus on the group with the most spending potential (36-50) to understand why this group was spending SO much on Wine and meat products!  
- <img src="images/agedistrib.jpg?raw=true"/>
+ <img src="images/maritalstatus.png?raw=true"/>
          
 As an extra, I Created a VLOOKUP tool that can take any Customer ID & provide the amount they spent.
 
