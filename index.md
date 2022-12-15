@@ -14,8 +14,8 @@ For this project, I analysed a dataset from an Educational Institution and prese
 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [Where is my Money](/files/where_is_my_money.pdf)
+<img src="images/whereismymoney.png?raw=true"/>
 Using SQL to analyse data and answer questions from a Financial Institution. 
 
 
