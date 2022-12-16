@@ -14,7 +14,7 @@ For this project, I analysed a dataset from an Educational Institution and prese
 
 
 ---
-#### [Where is my Money](/files/where_is_my_money.pdf)
+#### [Where is my Money?](/files/where_is_my_money.pdf)
 <img src="images/whereismymoney.png?raw=true"/>
 Using SQL to analyse data and answer questions from a Financial Institution. 
 
